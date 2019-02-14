@@ -1,0 +1,31 @@
+{
+  "short_name": "Hello",
+  "name": "DevHome",
+  "display": "standalone",
+  "background_color":"#0000FF",
+  "theme_color":"#fff",
+
+  "icons": [
+    {
+      "src": "img/workbox_icon_48-48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "img/workbox_icon_96-96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "img/workbox_icon_192-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "img/workbox_icon_512-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "index.html?launcher=true"
+}

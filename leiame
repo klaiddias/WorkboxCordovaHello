@@ -1,0 +1,6 @@
+Install the CLI
+npm install workbox-cli --global
+
+workbox wizard
+workbox generateSW
+workbox injectManifest <-atualiza os arquivos, executar sempre que modificar
